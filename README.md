@@ -105,7 +105,7 @@ Favourite photos persist across page refresh using **localStorage**.
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/photo-gallery-app.git
+git clone https://github.com/Ansh00717/Photo-Gallery-App/
 ```
 
 Install dependencies
