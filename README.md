@@ -5,14 +5,6 @@ The application fetches images from a public API, displays them in a responsive 
 
 ---
 
-# Live Demo
-
-Deployed Website:
-
-`https://photo-gallery-app-test.netlify.app/`
-
----
-
 # Features
 
 • Fetches 30 photos from the Picsum Photos API
